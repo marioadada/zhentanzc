@@ -1,0 +1,347 @@
+[
+  {
+    "policy_id": "xm-yb-2022-12",
+    "doc_number": "厦府规〔2022〕12号",
+    "current_status": "partially_superseded",
+    "status_verdict": "superseded",
+    "evidence_layer": "L-3 库内沿革链",
+    "note": "该文件已被库内沿革链标记为被替代。",
+    "evidence": {
+      "L3_version_chain": [
+        {
+          "superseded_by": "xm-yb-2026-13",
+          "reason": "库内沿革链声明"
+        }
+      ]
+    },
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-yb-2026-13",
+    "doc_number": "闽医保〔2026〕13号",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-yb-2026-rate",
+    "doc_number": "厦医保公告 2026年度职工基本医疗保险缴费率",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-yb-2025-rate",
+    "doc_number": "厦医保 2025年度职工基本医疗保险缴费率",
+    "current_status": "active",
+    "status_verdict": "superseded",
+    "evidence_layer": "L-3 库内沿革链",
+    "note": "该文件已被库内沿革链标记为被替代。",
+    "evidence": {
+      "L3_version_chain": [
+        {
+          "superseded_by": "xm-yb-2026-rate",
+          "reason": "库内沿革链声明"
+        }
+      ]
+    },
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-yb-2025-7",
+    "doc_number": "厦府规〔2025〕7号",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "fj-rst-2026-13",
+    "doc_number": "闽人社文〔2026〕13号",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-gb-2025-2",
+    "doc_number": "厦府规〔2025〕2号",
+    "current_status": "active",
+    "status_verdict": "validity_unset",
+    "evidence_layer": "L-1 文件有效性元数据",
+    "note": "该文件页面「有效性」字段为「未设置」——既不证明有效也不证明失效。需人工核对清理目录清单表。",
+    "evidence": {
+      "L1_validity_field": {
+        "validity": "未设置",
+        "doc_number": "厦府规〔2025〕2号",
+        "title": "厦门市人民政府关于印发退休人员社会化管理服务办法的通知",
+        "source": "hrss-20250328.txt"
+      }
+    },
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-tax-param",
+    "doc_number": "厦门税务 社保费费种费率表",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-yb-interpret",
+    "doc_number": "厦门市医保局 在线访谈文字实录",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-chc-interpret",
+    "doc_number": "厦医保规〔2026〕3号 政策解读",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-waitperiod",
+    "doc_number": "待遇等待期与两大激励 官方答疑",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-pension-transfer-interpret",
+    "doc_number": "养老保险转移、退保、继承政策解读",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-residence-pension-interpret",
+    "doc_number": "居住证人员参加企业职工基本养老保险 解读",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-pension-official-guide",
+    "doc_number": "灵活就业人员 养老保险参保指引",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-participate-guide",
+    "doc_number": "厦门市民专属参保指南",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-hrss-cleanup",
+    "doc_number": "规范性文件清理目录",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-resident-guide",
+    "doc_number": "6.1.6 城乡居民医疗保险参保(缴费)",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-resident-enroll-2026",
+    "doc_number": "2026年居民医保集中参保缴费期 缴费指引",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-resident-policy-interpret",
+    "doc_number": "厦医保〔2025〕86号 政策解读",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-medical-continuity",
+    "doc_number": "医保连续缴费与转移接续 官方提示",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-flexible-commitment",
+    "doc_number": "灵活就业参保承诺制 12345热线官方答复",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "fj-minwage-2025-14",
+    "doc_number": "闽人社文〔2025〕14号",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-yb-2026-90",
+    "doc_number": "厦医保〔2026〕90号",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-chc-2026-3",
+    "doc_number": "厦医保规〔2026〕3号",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-yb-2025-86",
+    "doc_number": "厦医保〔2025〕86号",
+    "current_status": "active",
+    "status_verdict": "valid",
+    "evidence_layer": "L-1 文件有效性元数据",
+    "note": "该文件页面「有效性」字段标注为「有效」，为发布机关自身声明。",
+    "evidence": {
+      "L1_validity_field": {
+        "validity": "有效",
+        "doc_number": "厦医保〔2025〕86号",
+        "title": "厦门市医疗保障局 厦门市财政局 国家税务总局厦门市税务局关于调整居民医保参保政策的通知",
+        "source": "xm-yb-2025-86.txt"
+      }
+    },
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-yb-2026-24",
+    "doc_number": "厦医保〔2026〕24号",
+    "current_status": "active",
+    "status_verdict": "valid",
+    "evidence_layer": "L-1 文件有效性元数据",
+    "note": "该文件页面「有效性」字段标注为「有效」，为发布机关自身声明。",
+    "evidence": {
+      "L1_validity_field": {
+        "validity": "有效",
+        "doc_number": "厦医保〔2026〕24号",
+        "title": "厦门市医疗保障局 厦门市财政局 国家税务总局厦门市税务局转发福建省医疗保障局等三部门关于完善生育保险参保缴费和待遇享受等有关问题的通知",
+        "source": "xm-yb-2026-24.txt"
+      }
+    },
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-yb-2025-96",
+    "doc_number": "厦医保〔2025〕96号",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-unemp-claim-guide",
+    "doc_number": "失业保险金申领 办事指南（思明区）",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-pension-retire-guide",
+    "doc_number": "企业职工退休—养老保险待遇申领 办事指南",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-resident-enroll-window-2026",
+    "doc_number": "2026年居民医保集中参保缴费期公告",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  },
+  {
+    "policy_id": "xm-resident-enroll-window-2027",
+    "doc_number": "2027年度居民医保及长护险集中参保缴费期公告",
+    "current_status": "active",
+    "status_verdict": "unknown",
+    "evidence_layer": "无反查证据",
+    "note": "未找到任何状态反查证据（既无有效性元数据，也未进清理目录，库内也无沿革链）。不得据此认为文件有效。",
+    "evidence": {},
+    "should_downgrade": false
+  }
+]

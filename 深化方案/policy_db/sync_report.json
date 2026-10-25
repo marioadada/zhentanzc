@@ -1,0 +1,52 @@
+{
+  "started_at": "2026-10-25T00:12:00+08:00",
+  "changed": [],
+  "unchanged": [
+    "fj-minwage-2025-14",
+    "fj-one-flexible",
+    "fj-one-list",
+    "fj-rst-2026-13",
+    "xm-chc-2026-3",
+    "xm-chc-interpret",
+    "xm-gb-2025-2",
+    "xm-hrss-cleanup",
+    "xm-hrss-policy",
+    "xm-participate-guide",
+    "xm-pension-official-guide",
+    "xm-pension-retire-guide",
+    "xm-pension-transfer-interpret",
+    "xm-residence-pension-interpret",
+    "xm-resident-guide",
+    "xm-unemp-claim-guide",
+    "xm-waitperiod",
+    "xm-yb-2019-126",
+    "xm-yb-2022-12",
+    "xm-yb-2025-7",
+    "xm-yb-2025-86",
+    "xm-yb-2025-96",
+    "xm-yb-2025-rate",
+    "xm-yb-2026-13",
+    "xm-yb-2026-24",
+    "xm-yb-2026-90",
+    "xm-yb-2026-rate"
+  ],
+  "unreachable": [
+    {
+      "key": "xm-pension-guide-DISABLED",
+      "http": "000"
+    }
+  ],
+  "committed": [],
+  "skipped": [
+    {
+      "key": "xm-tax-param",
+      "reason": "厦门税务费种费率表：表格在图片中，页面为动态壳，每次抓取内容都不同（SHA256 必然变化）→ 误报。已改用闽人社文〔2026〕13号 + 闽人社文〔2025〕14号取数"
+    },
+    {
+      "key": "xm-yb-interpret",
+      "reason": "医保局访谈实录：正确 URL 为 gzcy/zxft/cbzc/wzsl/，本键为旧地址"
+    }
+  ],
+  "pipeline_ok": true,
+  "finished_at": "2026-10-25T00:13:16+08:00"
+}

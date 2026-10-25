@@ -1,0 +1,244 @@
+{
+  "sources": {
+    "xm-yb-2026-rate": {
+      "sha256": "488a1c66f07c2a2d6e613c156443364bc83e9063028babe11819f006c2e02891",
+      "fetched_at": "2026-10-25T00:13:16+08:00",
+      "doc_number": "厦医保公告 2026年度职工基本医疗保险缴费率",
+      "url": "https://ylbz.xm.gov.cn/zwgk/tzgg/202512/t20251231_2975001.htm",
+      "unchanged_since": "2026-10-25T00:12:00+08:00"
+    },
+    "fj-minwage-2025-14": {
+      "sha256": "a73dda11ae25b7736e557c7fa48b390a5bd06666bf181de590224a8edc772418",
+      "fetched_at": "2026-10-25T00:12:01+08:00",
+      "doc_number": "闽人社文〔2025〕14号",
+      "url": "https://www.xiangan.gov.cn/zwgk/jycy/zcwj/202502/t20250212_1089240.htm",
+      "unchanged_since": "2026-10-25T00:10:45+08:00"
+    },
+    "fj-one-flexible": {
+      "sha256": "04e71673c83bd1b9f0ad77b0007494253480bcd0152e322e887d32879b188743",
+      "fetched_at": "2026-10-25T00:12:01+08:00",
+      "doc_number": "福建省网上办事大厅 灵活就业一件事",
+      "url": "https://zwfw.fujian.gov.cn:1001/OnebusinessCate/efficiently-thing/flexible-employment/",
+      "unchanged_since": "2026-10-25T00:10:46+08:00"
+    },
+    "fj-one-list": {
+      "sha256": "83b58cc907076fb231607398388b09f04b5f525795f7bf66c11e5d5943f015e7",
+      "fetched_at": "2026-10-25T00:12:02+08:00",
+      "doc_number": "福建省网上办事大厅 一件事目录",
+      "url": "https://zwfw.fujian.gov.cn:1001/OnebusinessCate/unite-list/?cityCode=350200000000",
+      "unchanged_since": "2026-10-25T00:10:46+08:00"
+    },
+    "fj-rst-2026-13": {
+      "sha256": "9e3a23321a420f9a07c556673bef67412ec1fca77329d35d2c6b205fa55b6f81",
+      "fetched_at": "2026-10-25T00:12:03+08:00",
+      "doc_number": "闽人社文〔2026〕13号",
+      "url": "https://hrss.xm.gov.cn/xxgk/sjwj/202610/t20261009_3020482.htm",
+      "unchanged_since": "2026-10-25T00:10:47+08:00"
+    },
+    "xm-chc-2026-3": {
+      "sha256": "bf5c3082908ab9fa3fd08b4e7c3e4e5e5fdc1fdb0a63a54d4ca6086546bb7290",
+      "fetched_at": "2026-10-25T00:12:04+08:00",
+      "doc_number": "厦医保规〔2026〕3号",
+      "url": "https://ylbz.xm.gov.cn/zwgk/zfxxgk/zc/ybzcfg/202610/t20261010_3020656.htm",
+      "unchanged_since": "2026-10-25T00:10:48+08:00"
+    },
+    "xm-chc-interpret": {
+      "sha256": "c10371d76390864c3a494d7f44cebc16db0ff895c6d672d55dd934819b95f6a3",
+      "fetched_at": "2026-10-25T00:12:04+08:00",
+      "doc_number": "厦医保规〔2026〕3号 政策解读",
+      "url": "https://ylbz.xm.gov.cn/zwgk/zfxxgk/ml/zcwj/zcjd/202610/t20261010_3020657.htm",
+      "unchanged_since": "2026-10-25T00:10:49+08:00"
+    },
+    "xm-gb-2025-2": {
+      "sha256": "2bdd616e06190624ba2164c9db9944768ce37a32bd9e4035fc5d88ad81c8493c",
+      "fetched_at": "2026-10-25T00:12:06+08:00",
+      "doc_number": "厦府规〔2025〕2号",
+      "url": "https://www.xm.gov.cn/zwgk/flfg/sfwj/202503/P020250301753539408346.pdf",
+      "unchanged_since": "2026-10-25T00:10:50+08:00"
+    },
+    "xm-hrss-cleanup": {
+      "sha256": "2ef06ad98173cee9050f8f27b5920f147fc275e304bf7ca18d1feb32f3e62d05",
+      "fetched_at": "2026-10-25T00:12:06+08:00",
+      "doc_number": "规范性文件清理目录",
+      "url": "https://hrss.xm.gov.cn/xxgk/zfxxgkzl/zfxxgkml/zcfg/qtwj/",
+      "unchanged_since": "2026-10-25T00:10:51+08:00"
+    },
+    "xm-hrss-policy": {
+      "sha256": "5ec4047e54bd46107fea7e0b90adae453fcdd2d3b2b2bbe6ac08ec6a8d62ce02",
+      "fetched_at": "2026-10-25T00:12:07+08:00",
+      "doc_number": "厦门市人社局政策法规库",
+      "url": "https://hrss.xm.gov.cn/xxgk/zcfg/",
+      "unchanged_since": "2026-10-25T00:10:51+08:00"
+    },
+    "xm-participate-guide": {
+      "sha256": "97cc5bdd9e01e0fbf7155d7dcfc09140989a18ebba40f27d318c03eecc97fb95",
+      "fetched_at": "2026-10-25T00:12:13+08:00",
+      "doc_number": "厦门市民专属参保指南",
+      "url": "https://cloud.xm.gov.cn/165/service/2776639.xhtml",
+      "unchanged_since": "2026-10-25T00:10:58+08:00"
+    },
+    "xm-pension-official-guide": {
+      "sha256": "a682a54052ef7104f2a330ac0c06933aa2e9c555114bbbb5ec15e0da18b0ae8a",
+      "fetched_at": "2026-10-25T00:12:14+08:00",
+      "doc_number": "灵活就业人员 养老保险参保指引",
+      "url": "https://cloud.xm.gov.cn/165/service/2810450.xhtml",
+      "unchanged_since": "2026-10-25T00:10:59+08:00"
+    },
+    "xm-pension-transfer-interpret": {
+      "sha256": "459cee37d3a66b032a76b30a858cd24142e4b564377c8eb6be7960ec8bafe8c5",
+      "fetched_at": "2026-10-25T00:12:31+08:00",
+      "doc_number": "养老保险转移、退保、继承政策解读",
+      "url": "https://www.haicang.gov.cn/hdjl/zxft/202512/t20251205_1129768.htm",
+      "unchanged_since": "2026-10-25T00:11:15+08:00"
+    },
+    "xm-residence-pension-interpret": {
+      "sha256": "4c8f92673b7cc2ee962446226689fb4a02b0ee0ff3b1e41e8b929aeb0f3a2f97",
+      "fetched_at": "2026-10-25T00:12:32+08:00",
+      "doc_number": "居住证人员参加企业职工基本养老保险 解读",
+      "url": "https://hrss.xm.gov.cn/gzcy/zxft/jdcxmjzzkcb",
+      "unchanged_since": "2026-10-25T00:11:16+08:00"
+    },
+    "xm-resident-guide": {
+      "sha256": "dd5bdd21459351cd45146e9dea5ee6e49f48af58c70525437eb84dfb84425f00",
+      "fetched_at": "2026-10-25T00:12:49+08:00",
+      "doc_number": "6.1.6 城乡居民医疗保险参保(缴费)",
+      "url": "https://cloud.xm.gov.cn/165/service/2776119.xhtml",
+      "unchanged_since": "2026-10-25T00:11:34+08:00"
+    },
+    "xm-waitperiod": {
+      "sha256": "243a186a827c04aa009a2e869a792f716813f43ca13320f53204ed19422f79d0",
+      "fetched_at": "2026-10-25T00:13:05+08:00",
+      "doc_number": "待遇等待期与两大激励 官方答疑",
+      "url": "https://ylbz.xm.gov.cn/zwgk/ybdt/202512/t20251201_2969555.htm",
+      "unchanged_since": "2026-10-25T00:11:50+08:00"
+    },
+    "xm-yb-2019-126": {
+      "sha256": "9a156dcbc9161678fa27c7f937488ca4a348be1532e5ea878fc319a04a77c5a0",
+      "fetched_at": "2026-10-25T00:13:05+08:00",
+      "doc_number": "厦医保〔2019〕126号",
+      "url": "https://ylbz.xm.gov.cn/zwgk/zfxxgk/ml/zcwj/zcfg/201912/t20191230_2412046.htm",
+      "unchanged_since": "2026-10-25T00:11:51+08:00"
+    },
+    "xm-yb-2022-12": {
+      "sha256": "86eb51fe0dde3f28f3bf31af97c421dad6d0df5e04b198262be3ca4a06729c7d",
+      "fetched_at": "2026-10-25T00:13:07+08:00",
+      "doc_number": "厦府规〔2022〕12号",
+      "url": "https://www.xm.gov.cn/zfgb/99833450",
+      "unchanged_since": "2026-10-25T00:11:52+08:00"
+    },
+    "xm-yb-2025-7": {
+      "sha256": "57191a863d229c900171a03895aec6809f9c347cd29ebdf0b06dfc1bf2285d38",
+      "fetched_at": "2026-10-25T00:13:08+08:00",
+      "doc_number": "厦府规〔2025〕7号",
+      "url": "https://www.xm.gov.cn/zfgb/99833863",
+      "unchanged_since": "2026-10-25T00:11:53+08:00"
+    },
+    "xm-yb-2025-86": {
+      "sha256": "1d22aab76fb71d4bc510290799f8cc79b4a19cf1524a2d68cf5cc27bb2283c80",
+      "fetched_at": "2026-10-25T00:13:08+08:00",
+      "doc_number": "厦医保〔2025〕86号",
+      "url": "https://ylbz.xm.gov.cn/zwgk/zfxxgk/ml/zcwj/zcfg/202508/t20250814_2950409.htm",
+      "unchanged_since": "2026-10-25T00:11:54+08:00"
+    },
+    "xm-yb-2025-96": {
+      "sha256": "d364b739c2653860701cfff0f75b34cb7ee9ba5ab25835dc0b5749d1e7aa9592",
+      "fetched_at": "2026-10-25T00:13:09+08:00",
+      "doc_number": "厦医保〔2025〕96号",
+      "url": "https://ylbz.xm.gov.cn/zwgk/tpxw/202510/t20251023_2962144.htm",
+      "unchanged_since": "2026-10-25T00:11:55+08:00"
+    },
+    "xm-yb-2025-rate": {
+      "sha256": "82d70cb044df5732bc537a3fa155fd38d726792da4c3412207ef8442c871f97e",
+      "fetched_at": "2026-10-25T00:13:10+08:00",
+      "doc_number": "厦医保 2025年度职工基本医疗保险缴费率",
+      "url": "https://ylbz.xm.gov.cn/zwgk/zfxxgk/zc/ybzcfg/202501/t20250127_2915362.htm",
+      "unchanged_since": "2026-10-25T00:11:55+08:00"
+    },
+    "xm-yb-2026-13": {
+      "sha256": "86ec32d96af7c36f6f7db13e1f8f7a16b03febd333f5e476d584c89309e6b991",
+      "fetched_at": "2026-10-25T00:13:13+08:00",
+      "doc_number": "闽医保〔2026〕13号",
+      "url": "https://ylbz.xm.gov.cn/zwgk/zfxxgk/ml/zcwj/qtwj/202603/P020260313526925372654.pdf",
+      "unchanged_since": "2026-10-25T00:11:58+08:00"
+    },
+    "xm-yb-2026-24": {
+      "sha256": "e0be60227abee8067ccdaab0e1d6cc3fabab7babc807546eb1d60a2628272e3e",
+      "fetched_at": "2026-10-25T00:13:14+08:00",
+      "doc_number": "厦医保〔2026〕24号",
+      "url": "https://ylbz.xm.gov.cn/zwgk/zfxxgk/ml/zcwj/qtwj/202603/t20260313_2985345.htm",
+      "unchanged_since": "2026-10-25T00:11:58+08:00"
+    },
+    "xm-yb-2026-90": {
+      "sha256": "8a7252a801b78ec0679b8510eed3fe053c44ab0333465f845b450278551dfdd7",
+      "fetched_at": "2026-10-25T00:13:15+08:00",
+      "doc_number": "厦医保〔2026〕90号",
+      "url": "https://ylbz.xm.gov.cn/zwgk/zfxxgk/ml/zcwj/qtwj/202610/t20261013_3021006.htm",
+      "unchanged_since": "2026-10-25T00:11:59+08:00"
+    },
+    "xm-pension-retire-guide": {
+      "sha256": "ff7427d3aaf4f1404e2c0a9657d305da8f57a402da440d96a9ad79fafb453be0",
+      "fetched_at": "2026-10-25T00:12:30+08:00",
+      "doc_number": "企业职工退休—养老保险待遇申领 办事指南",
+      "url": "https://siming.gov.cn/wsbs/ztfw/sb/nrrh/202411/t20241119_1078974.htm?PROTID=6713",
+      "unchanged_since": "2026-10-25T00:11:14+08:00"
+    },
+    "xm-unemp-claim-guide": {
+      "sha256": "9d100c167929928aa9687ea39fbd7e0186da1a8e175976b0744f875f8f2b2e6d",
+      "fetched_at": "2026-10-25T00:13:04+08:00",
+      "doc_number": "失业保险金申领 办事指南（思明区）",
+      "url": "https://www.siming.gov.cn/wsbs/ztfw/sb/nrrh/202309/t20230913_930369.htm",
+      "unchanged_since": "2026-10-25T00:11:49+08:00"
+    }
+  },
+  "last_sync": "2026-10-25T00:13:16+08:00",
+  "history": [
+    {
+      "at": "2026-10-24T23:44:25+08:00",
+      "changed": 1,
+      "committed": 1,
+      "unreachable": 2
+    },
+    {
+      "at": "2026-10-24T23:57:24+08:00",
+      "changed": 0,
+      "committed": 0,
+      "unreachable": 5
+    },
+    {
+      "at": "2026-10-25T00:01:00+08:00",
+      "changed": 3,
+      "committed": 0,
+      "unreachable": 1
+    },
+    {
+      "at": "2026-10-25T00:04:43+08:00",
+      "changed": 2,
+      "committed": 0,
+      "unreachable": 1
+    },
+    {
+      "at": "2026-10-25T00:06:52+08:00",
+      "changed": 0,
+      "committed": 0,
+      "unreachable": 1
+    },
+    {
+      "at": "2026-10-25T00:09:04+08:00",
+      "changed": 0,
+      "committed": 0,
+      "unreachable": 1
+    },
+    {
+      "at": "2026-10-25T00:12:00+08:00",
+      "changed": 0,
+      "committed": 0,
+      "unreachable": 1
+    },
+    {
+      "at": "2026-10-25T00:13:16+08:00",
+      "changed": 0,
+      "committed": 0,
+      "unreachable": 1
+    }
+  ]
+}

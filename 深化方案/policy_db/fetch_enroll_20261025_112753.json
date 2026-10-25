@@ -1,0 +1,40 @@
+[
+  {
+    "layer": "L1",
+    "kind": "html",
+    "doc_number": "2026年居民医保集中参保缴费期公告",
+    "title": "2026年居民医保集中参保缴费期即将截止",
+    "issuer": "厦门市医疗保障局",
+    "url": "https://ylbz.xm.gov.cn/zwgk/tpxw/202512/t20251224_2973554.htm",
+    "effective_from": "2025-10-22",
+    "effective_to": "2025-12-26",
+    "key": "xm-resident-enroll-window-2026",
+    "fetched_at": "2026-10-25T11:27:50+08:00",
+    "http_status": "200",
+    "raw_sha256": "396c54fe29e16307d070fdc2b46611d3c6c29da3354b6c1b108c3a3a67aaf336",
+    "raw_bytes": 29691,
+    "text_chars": 2172,
+    "text_sha256": "83016ccc933c72ba4b9734495bdb6141ddecd716566ae6db1e65f5698057c0e8",
+    "cjk_ratio": 0.7878,
+    "status": "ok"
+  },
+  {
+    "layer": "L1",
+    "kind": "html",
+    "doc_number": "2027年度居民医保及长护险集中参保缴费期公告",
+    "title": "厦门正式落地长期护理保险制度",
+    "issuer": "厦门市医疗保障局",
+    "url": "https://ylbz.xm.gov.cn/zwgk/tpxw/202610/t20261012_3020838.htm",
+    "effective_from": "2026-10-01",
+    "effective_to": "2026-12-31",
+    "key": "xm-resident-enroll-window-2027",
+    "fetched_at": "2026-10-25T11:27:52+08:00",
+    "http_status": "200",
+    "raw_sha256": "c921fb03d0eaaeea54159aca0726c8916df07bdda605b7a48d32fc81520a23d4",
+    "raw_bytes": 32636,
+    "text_chars": 3316,
+    "text_sha256": "471f6596fdc78d87251f39cea1b070d36bd571ab1f37bda504cb3f81ce2aa225",
+    "cjk_ratio": 0.8082,
+    "status": "ok"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "i": 0,
+    "url": "https://zwfw.fujian.gov.cn:1001/uopofflineapi/hoox/uop/smp/v1/unite-config?moduleUnid=CO99c81ada71c5495ea8326220e849_1&version=0&areaCode=&handleChannel=WEBSITE",
+    "ct": "application/json;charset=UTF-8",
+    "len": 84411,
+    "cjk": "0.090",
+    "file": "xhr_fj-flexible_0.txt"
+  },
+  {
+    "i": 1,
+    "url": "https://zwfw.fujian.gov.cn:1001/uopapi/hoox/uop/general/v1/site-list-by-unite?moduleUnid=CO99c81ada71c5495ea8326220e849_1&areaCode=350100000000",
+    "ct": "application/json;charset=UTF-8",
+    "len": 1124,
+    "cjk": "0.075",
+    "file": "xhr_fj-flexible_1.txt"
+  },
+  {
+    "i": 2,
+    "url": "https://zwfw.fujian.gov.cn:1001/uopapi/hoox/uop/general/v1/site-list-by-unite?moduleUnid=CO99c81ada71c5495ea8326220e849_1&areaCode=350100000000",
+    "ct": "application/json;charset=UTF-8",
+    "len": 1124,
+    "cjk": "0.075",
+    "file": "xhr_fj-flexible_2.txt"
+  }
+]
